@@ -1,0 +1,9 @@
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\bin\Debug\PowerCombiner.exe.config
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\bin\Debug\PowerCombiner.exe
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\bin\Debug\PowerCombiner.pdb
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\obj\Debug\PowerCombiner.csprojResolveAssemblyReference.cache
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\obj\Debug\PowerCombiner.Form1.resources
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\obj\Debug\PowerCombiner.Properties.Resources.resources
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\obj\Debug\PowerCombiner.csproj.GenerateResource.Cache
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\obj\Debug\PowerCombiner.exe
+C:\Users\raua\Documents\PowerCombiner\PowerCombiner\obj\Debug\PowerCombiner.pdb
